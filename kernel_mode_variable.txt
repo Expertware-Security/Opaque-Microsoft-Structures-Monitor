@@ -1,0 +1,4 @@
+ci!g_CiOptions
+ci!CiValidateImageHeader
+ci!CiCheckSignedFile
+ci!CiVerifyHashInCatalog

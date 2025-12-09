@@ -1,0 +1,2 @@
+C:\Windows\System32\ntdll.dll _PEB
+C:\Windows\System32\ntdll.dll _TEB

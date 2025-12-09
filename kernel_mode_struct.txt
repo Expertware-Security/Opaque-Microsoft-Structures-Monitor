@@ -1,0 +1,5 @@
+ntkrnlmp!_EPROCESS
+ntkrnlmp!_ETHREAD
+ntkrnlmp!_KPROCESS
+ntkrnlmp!_KTHREAD
+ntkrnlmp!_TOKEN
